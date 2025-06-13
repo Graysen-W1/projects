@@ -1,0 +1,22 @@
+All Unique Words: 26982
+
+First 5 Words Alphabetically:
+a
+aaron
+aarons
+abaissez
+abandon
+
+Last 5 Words Alphabetically:
+zodiacs
+zone
+zounds
+zur
+zwaggered
+
+Top 5 Most Frequent Words:
+the: 26851
+and: 24077
+i: 20535
+to: 18561
+of: 16013
